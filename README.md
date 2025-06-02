@@ -1,2 +1,2 @@
-# hackathon - RAG для ЦБ
+# RAG 
 Задача: настроить RAG для LLM
